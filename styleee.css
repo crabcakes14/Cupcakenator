@@ -1,0 +1,63 @@
+
+
+@font-face{
+    font-family: Superfunky;
+    src:url(fonts/SuperFunky-lgmWw.woff);
+
+    }
+
+@font-face{
+    font-family: purplemagic;
+    src:url(fonts/PurplemagicdemoSvg-x32mO.woff);
+}     
+
+
+
+        h2{
+
+        }   
+
+        #CUPCAKESBY{
+            font-size: 50pt;
+            font-family: superfunky;
+            color:rgba(84, 79, 230, 1.0);
+            margin-left: 40px;
+             padding: 20px;
+             color: rgba(0, 0, 0, 1.0);
+
+        }   
+
+        #clicktostart{
+        	font-family: ;
+        	background: rgba(255, 111, 210, 1.0);
+        	padding: 15px;
+        	color: rgba(255, 255, 255, 1.0);
+        	width: 100px;
+
+
+        }
+              
+         h3{
+         	font-size: 70pt;
+         	font-family: superfunky;
+         	 margin-left: 40px;
+         	 margin-top: 50px;
+
+         }
+
+        h4{ 
+            font-family: !important;
+            font-size: 20pt;
+            color: rgba(255, 255, 255, 1.0);
+            margin-left: 300px;
+              }
+
+
+    body{
+        background: rgba(255, 222 , 222, 1);
+     =
+
+
+    } 
+
+  
